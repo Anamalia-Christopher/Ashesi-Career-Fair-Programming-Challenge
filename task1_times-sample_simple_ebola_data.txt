@@ -1,0 +1,9 @@
+file_reading and pre-processing= 1.525
+'a' runtime= 0.131
+'b' runtime= 0.117
+'c' runtime= 0.001
+'d' runtime= 0.001
+'e' runtime= 0.001
+'f' runtime= 0.001
+'g' runtime= 0.001
+overall runtime= 1.807

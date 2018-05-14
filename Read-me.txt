@@ -1,0 +1,4 @@
+Our code executes under python 3
+
+For the first task, the run-time is in in a seperated file from the file containing the code
+For the second task, the run-time is inside the file containing the code.
